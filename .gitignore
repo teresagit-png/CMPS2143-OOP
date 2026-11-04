@@ -1,7 +1,7 @@
 build/
 .vscode/
 .DS_store
-examples/
-starter/check/
+examples
+starter/check
 starter/src/main.cpp
 starter/CMakeLists.txt
